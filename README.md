@@ -1,6 +1,6 @@
 <h1 align="center">YO 👋, Mr. JHA here </h1>
 
-<h3 align="center">A man with a cyber security background and a passion for Python programming. Exploring network security, cryptography, and ethical hacking. Enjoying the power of Python, and has used it to develop a range of applications, tools, and scripts to automate various processes, analyze data, and enhance security measures.</h3>
+<h3 align="center">A man from cyber security background and a passion for Python programming. Exploring network security, cryptography, and ethical hacking. Enjoying the power of Python, and has used it to develop a range of applications, tools, and scripts to automate various processes, analyze data, and enhance security measures.</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/network-mass-effect-animation-7a3roha8ci1c8lhq.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuldeepkrjha&label=Profile%20views&color=0e75b6&style=flat" alt="kuldeepkrjha" /> </p>
 
