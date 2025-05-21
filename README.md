@@ -6,7 +6,7 @@
 
 - 🔭 Currently working on [Deployment of AI Secured Firewall for Enhancement of Network Security](PVT.)
 
-- 🌱 Currently learning **NETWORK SECURITY**
+- 🌱 Currently learning **Dev-Sec-OPS/ Automation**
 
 - 👨‍💻 My projects are available at [Project](https://github.com/kuldeepkrjha)
 
