@@ -1,4 +1,4 @@
-<h1 align="center">👋 Welcome, Jha's GitHub" </h1>
+<h1 align="center">👋 Welcome, Jha's GitHub </h1>
 
 <h3 align="center">I am from cyber security background and a passion for deepdiving the techs. Exploring network security, cryptography, and ethical hacking. Enjoying the power i achieved till date from learnings, used it to develop a range of applications, tools, and scripts to automate various processes, did brutal analysis, and enhance security measures.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/85/31/5d/85315dfc4cce06ca2c5af1048eddd54e.gif" 
