@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/85/31/5d/85315dfc4cce06ca2c5af1048eddd54e.gif" 
   <img src="https://komarev.com/ghpvc/?username=kuldeepkrjha&label=Profile%20views&color=0e75b6&style=flat" alt="kuldeepkrjha" /> </p>
 
-- 🔭 Currently working on [Deployment of AI Secured Firewall for Enhancement of Network Security](PVT.)
+- 🔭 Currently working on [Quantum-Resilient Hybrid KMS](PVT.)
 
-- 🌱 Currently learning **Dev-Sec-OPS/ Automation**
+- 🌱 Exploring **Dev-Sec-OPS/ Automation**
 
 - 👨‍💻 My projects are available at [Project](https://github.com/kuldeepkrjha)
 
